@@ -72,8 +72,8 @@
   </Option>
   <Option name="help"/>
   <Option name="modelVariables"/>
-  <Option type="QString" value="mymodels" name="model_group"/>
-  <Option type="QString" value="testmodel" name="model_name"/>
+  <Option type="QString" value="Test models" name="model_group"/>
+  <Option type="QString" value="sharingtestmodel" name="model_name"/>
   <Option type="Map" name="parameterDefinitions">
     <Option type="Map" name="inputvector">
       <Option type="List" name="data_types">
