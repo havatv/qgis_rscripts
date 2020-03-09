@@ -1,5 +1,6 @@
 ##[R-Geostatistics]=group
 ##showplots
+##load_vector_using_rgdal
 ##layer=vector
 ##field=field layer
 ##Estimate_range_and_psill_initial_values_from_sample_variogram=boolean True
