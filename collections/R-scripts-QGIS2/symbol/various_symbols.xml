@@ -6,7 +6,7 @@
         <prop k="alpha" v="1"/>
         <prop k="angle" v="0"/>
         <prop k="coordinate_mode" v="0"/>
-        <prop k="imageFile" v="/home/akbar/dev/repositories/qgis_resources/collections/test_collection/image/pikachu.png"/>
+        <prop k="imageFile" v="../image/pikachu.png"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -20,7 +20,7 @@
         <prop k="alpha" v="1"/>
         <prop k="angle" v="0"/>
         <prop k="coordinate_mode" v="0"/>
-        <prop k="imageFile" v="/home/akbar/dev/repositories/qgis_resources/collections/test_collection/image/bulbasaur.png"/>
+        <prop k="imageFile" v="../image/bulbasaur.png"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -61,7 +61,7 @@
                 <prop k="angle" v="0"/>
                 <prop k="color" v="255,0,0,255"/>
                 <prop k="horizontal_anchor_point" v="1"/>
-                <prop k="name" v="../../dev/repositories/qgis_resources/collections/test_collection/svg/blastoise.svg"/>
+                <prop k="name" v="../svg/blastoise.svg"/>
                 <prop k="offset" v="0,0"/>
                 <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
                 <prop k="offset_unit" v="MM"/>
@@ -228,7 +228,7 @@
         <prop k="angle" v="0"/>
         <prop k="color" v="255,0,0,255"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="../../dev/repositories/qgis_resources/collections/test_collection/svg/raychu.svg"/>
+        <prop k="name" v="../svg/raychu.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
